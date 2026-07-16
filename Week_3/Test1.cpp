@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    float PI = (float)22/7; // สามารถใช้ได้หลายแบบ (float)22/7 | (float)22/(float)7 | 22.0 / 7.0
+    float PI = (float)22/7; // สามารถใช้ได้หลายแบบ (float)22/7 | 22/(float)7 | (float)22/(float)7 | 22.0 / 7.0
     float circumference,radius; // circumference = เส้นรอบวง | radius = รัศมี
     printf("INPUT RADIUS :");
     scanf("%f",&radius); // รับค่า %__=ชนิดข้อมูล &__=ตัวแปร
