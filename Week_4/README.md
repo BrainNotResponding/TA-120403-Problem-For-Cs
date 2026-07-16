@@ -20,6 +20,5 @@
 | **วงกลมเล็ก (Circle)** | Connector | จุดเชื่อมต่อย่อยภายในหน้ากระดาษเดียวกัน | เพื่อเชื่อมโยงเส้นทางการไหลของข้อมูลที่มีความซับซ้อนให้เป็นระเบียบ |
 
 ---
+<img width="875" height="652" alt="image" src="https://github.com/user-attachments/assets/7c3fd9b9-97b3-4b0e-a567-b43751281c1d" />
 
-!(<img width="875" height="652" alt="image" src="https://github.com/user-attachments/assets/7c3fd9b9-97b3-4b0e-a567-b43751281c1d" />
-)
