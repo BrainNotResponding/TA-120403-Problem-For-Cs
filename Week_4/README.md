@@ -32,7 +32,8 @@
 
 เราสามารถแสดงการจับคู่เปรียบเทียบตรรกะการทำงานเดียวกันระหว่าง รหัสเทียม (เขียนเป็นข้อความสั้น ๆ ภาษาอังกฤษ) และ ผังงาน (วาดเป็นบล็อกสัญลักษณ์) ได้ดังรูปด้านล่างนี้:
 
-<img width="1024" height="776" alt="image" src="https://github.com/user-attachments/assets/99daacbc-7829-464a-95ba-768ee362612b" />
+<img width="1024" height="776" alt="image" src="https://github.com/user-attachments/assets/e3b46cd0-e7c8-419a-899c-3fdce6d4b25d" />
+
 
 
 ---
